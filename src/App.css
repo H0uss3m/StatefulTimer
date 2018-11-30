@@ -1,0 +1,19 @@
+h3{
+    color:grey;
+    opacity:0.4;
+}
+p{
+    font-size:35px;
+    margin-left: 25%;
+}
+.App 
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 22%;
+    margin-left: 39%;
+    margin-top:9%;
+    border: 5px solid;
+    background-color: white;
+}
